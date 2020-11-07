@@ -23,7 +23,7 @@ bin3 = new bin(1130,600,20,100)
 ball = new Ball(100,650,20)
 
 ground1 = new ground(800,670,1600,10)
-
+Engine.run (engine)
 } 
 
 function draw() {
